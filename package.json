@@ -1,0 +1,29 @@
+{
+  "name": "ed-message",
+  "version": "0.0.1",
+  "description": "Event driven network, event message definition",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/edwardgower/ed-message.git"
+  },
+  "keywords": [
+    "event",
+    "event driven",
+    "network",
+    "event",
+    "message"
+  ],
+  "author": "Ed Gower <edwardgower@gmail.com> (http://edgower.com/)",
+  "license": "Apache Lisense 2.0",
+  "bugs": {
+    "url": "https://github.com/edwardgower/ed-message/issues"
+  },
+  "homepage": "https://github.com/edwardgower/ed-message",
+  "dependencies": {
+    "ed-temporal-granularity": "^0.1.1"
+  },
+  "devDependencies": {
+    "should": "^4.3.0",
+    "mocha": "^2.0.1"
+  }
+}
